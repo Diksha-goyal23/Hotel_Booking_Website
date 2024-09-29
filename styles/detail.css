@@ -4,10 +4,16 @@
   }
 
   html, body {
+    margin:0%;
     height:100%;
     width: 100%;
-    overflow: scroll;
+    background-color: #e0e0e0;
   }
+  #header, footer
+  {
+  background-color: rosybrown;
+  }
+ 
  
 .logo-img {
     height: 60px;
@@ -17,8 +23,22 @@
 .hotel-img {
     height: 500px;
     width: 500px;
+    margin-top: 2%;
+    margin-left: 4%;
+    margin-right: 4%;
+    
 }
-
+.booking-form{
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 1%;
+}
+.hotel-det{
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 2%; 
+    margin-top: 1%;
+}
 .social-img{
     height: 20px;
     width: 22px;

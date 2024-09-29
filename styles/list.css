@@ -3,21 +3,32 @@
 .list-pg {
     width: 100%;
    height: 100%;
+  
   }
   
   html, body {
-    
+    margin:0%;
     height:100%;
     width: 100%;
-    overflow: scroll;
+    background-color: #e0e0e0;
   }
-
+  #header, footer
+  {
+  background-color: rosybrown;
+  }
+ 
 .logo-img {
     height: 60px;
     width: 60px;
 }
-
+.hotel-list
+{
+    background-color: rgb(132,136,139);
+    margin:2%;
+    width: 40%;
+}
 .hotel-img{
+    
     height: 200px;
     width: 250px;
 }

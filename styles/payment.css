@@ -4,11 +4,37 @@
   }
 
   html, body {
+    margin:0%;
     height:100%;
     width: 100%;
-    overflow: scroll;
+    background-color: #e0e0e0;
+    
   }
- 
+  #header, footer
+  {
+  background-color: rosybrown;
+  }
+ .hotel-desc{
+    
+    width: 50%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(132,136,139);
+ }
+ .cust-info{
+    margin:2%;
+ }
+ .tariff-det{
+   margin: 2%;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+ }
 .logo-img {
     height: 60px;
     width: 60px;

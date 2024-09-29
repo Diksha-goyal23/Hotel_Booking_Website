@@ -1,0 +1,16 @@
+html, body {
+    height:100%;
+    width: 100%;
+  }
+
+.loader{
+    display: block;
+  
+    margin: auto;
+    border: 12px solid #f3f3f3;
+    border-top: 12px solid #444444;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+ 
+}
